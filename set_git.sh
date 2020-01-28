@@ -7,7 +7,7 @@ echo
 
 # Ask the user for login details
 read -p 'Git repository url: ' upstreamVar
-read -p 'Git Username: ' userVar
+/bin/bash: q: command not found
 read -p 'Git email: ' emailVar
 
 echo
